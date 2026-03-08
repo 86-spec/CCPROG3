@@ -1,0 +1,5 @@
+{
+  "growth": { "name": "Growth Powder", "price": 50, "days": 3 },
+  "bloom": { "name": "Super Bloom", "price": 100, "days": 5 },
+  "miracle": { "name": "Miracle Gro", "price": 200, "days": 10 }
+}

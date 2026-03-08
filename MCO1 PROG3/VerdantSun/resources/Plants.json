@@ -1,0 +1,10 @@
+{
+  "turnip": { "name": "Turnip", "price": 10, "crop_price": 6, "yield": 2, "max_growth": 2, "preferred_soil": "loam" },
+  "carrot": { "name": "Carrot", "price": 15, "crop_price": 8, "yield": 3, "max_growth": 3, "preferred_soil": "loam" },
+  "potato": { "name": "Potato", "price": 20, "crop_price": 5, "yield": 6, "max_growth": 5, "preferred_soil": "loam" },
+  "rose": { "name": "Rose", "price": 5, "crop_price": 5, "yield": 1, "max_growth": 1, "preferred_soil": "loam" },
+  "tulip": { "name": "Tulip", "price": 10, "crop_price": 10, "yield": 1, "max_growth": 2, "preferred_soil": "loam" },
+  "sunflower": { "name": "Sunflower", "price": 15, "crop_price": 20, "yield": 1, "max_growth": 3, "preferred_soil": "loam" },
+  "mango": { "name": "Mango", "price": 100, "crop_price": 15, "yield": 10, "max_growth": 10, "preferred_soil": "loam" },
+  "apple": { "name": "Apple", "price": 200, "crop_price": 25, "yield": 15, "max_growth": 10, "preferred_soil": "loam" }
+}
